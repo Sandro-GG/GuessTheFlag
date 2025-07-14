@@ -1,8 +1,6 @@
 # 🎌 Guess the Flag — A Flag Guessing Game in SwiftUI
 
-This is a simple and engaging flag guessing game built as part of the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) challenge (Day 21).
-
-The app displays three random flags and asks the user to tap the correct one. It tracks the user’s score across eight rounds and gives feedback after each selection. After the final round, the game shows the total score and offers an option to restart.
+A simple and engaging flag guessing game. The app displays three random flags and asks the user to tap the correct one. It tracks the user’s score across eight rounds and gives feedback after each selection. After the final round, the game shows the total score and offers an option to restart.
 
 ---
 
@@ -23,15 +21,3 @@ The app displays three random flags and asks the user to tap the correct one. It
 - Using `Button`, `Alert`, `ForEach`, and layout in SwiftUI
 - View composition with `VStack`, `Spacer`, and `ZStack`
 - Structuring game logic and user interaction in SwiftUI
-
----
-
-## 📦 Requirements
-
-- iOS 15.0+
-- Xcode 14+
-- Swift 5.7+
-
----
-
-> Made with ❤️ while learning SwiftUI.
